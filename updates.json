@@ -1,0 +1,5 @@
+{
+    "version": "1.6.0",
+    "changelog": "- Replaces RPKG copy script (take seconds to deploy) with dependencies (takes minutes to deploy) \n- Replaces some raw files with QN patches to reduce 'warnings' \n- Adds voice variety (Mainly US, some UK) to USA maps and the Providence train. Maps now include ALL voices across S1 and S2+, instead of them being separate (Welcome to Seasons 2 and 3, Kurt and Jason Portman!) \n- Enables AutoUpdates",
+    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.6.0/Accent.Overhaul.1.6.0.zip"
+}
