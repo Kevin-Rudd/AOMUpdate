@@ -1,5 +1,5 @@
 {
-    "version": "1.7.0",
-    "changelog": "- Expands Van Damme's voiceset and adds it to Berlin and Paris\n- Replaces two awful Hush greetings ('Note to Hush...') with more generic greeting lines ('Hello' 'Don't bother me')\n- American Variety option now adds Western voice variety to Hawke's Bay\n- Sapienza (Racist Mode): Replaces all generic (not dictated by IO) local NPC voicelines with mostly Hispanic ones, the female voices aren't as bad",
-    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.7.0/Accent.Overhaul.1.7.0.zip"
+    "version": "1.7.1",
+    "changelog": "- Expands Le Chiffre's voice set\n- Adds it to the voice pool of Paris and Berlin\n- Adds voice variety to fashion show guests",
+    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.7.1/Accent.Overhaul.1.7.1.zip"
 }
