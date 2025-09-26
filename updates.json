@@ -1,5 +1,6 @@
 {
-    "version": "1.7.1",
-    "changelog": "- Expands Le Chiffre's voice set\n- Adds it to the voice pool of Paris and Berlin\n- Adds voice variety to fashion show guests",
-    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.7.1/Accent.Overhaul.1.7.1.zip"
+    "version": "1.8.0",
+    "changelog": "- Fixes non-deployment of Bangkok option caused by latest game update\n- Adds basic Bruce Lee voice to Hokkaido and Bangkok (will be updated in future)\n- SMF may not be deploying some files correctly, affecting Hush, Mads Mikkelsen and Van Damme lines. Or maybe I just need to clear my cache?",
+    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.8.0/Accent.Overhaul.1.8.0.zip"
 }
+
