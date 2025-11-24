@@ -1,7 +1,8 @@
 {
-    "version": "1.9.0",
-    "changelog": "- Makes Bruce Lee’s voice set more complete\n- Improves Van Damme’s voice with better lines and removes subtitles, makes him as likely to be used in Paris as Mendola’s voice\n- Kong: Restores some lines for that were cut between 2016 and H3 (Thanks to Notex), improves escort and sentry lines, removes 2 (of the many) self “Kong” references\n- Hokkaido: “No English” now turned into an SMF option rather than separate download. Does not quite 100% eliminate English from Japanese NPCs\n- Better sentry lines for Janus voice set",
-    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.9.0/Accent.Overhaul.1.9.0.zip"
+    "version": "1.9.1",
+    "changelog": "- Adds “Off” option for Hokkaido selection\n- Improves all male Asian voices with better escort, sentry and some closecombat lines",
+    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.9.1/Accent.Overhaul.1.9.1.zip"
 }
+
 
 
