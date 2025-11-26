@@ -1,8 +1,9 @@
 {
-    "version": "1.9.1",
-    "changelog": "- Adds “Off” option for Hokkaido selection\n- Improves all male Asian voices with better escort, sentry and some closecombat lines",
-    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.9.1/Accent.Overhaul.1.9.1.zip"
+    "version": "1.9.2",
+    "changelog": "Fixes Deploy error if 'Off' is selected for Hokkaido",
+    "url": "https://github.com/Kevin-Rudd/AOMUpdate/releases/download/1.9.2/Accent.Overhaul.1.9.2.zip"
 }
+
 
 
 
